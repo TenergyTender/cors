@@ -1,6 +1,6 @@
 const APP_NAME = "cors.ryanking13"
 const HOSTNAME = "CORS_RYANKING13_WORKERS_DEV"
-const APP_KEY = "62492b64742400257938bd440f99a50f"
+const APP_KEY = ""
 
 
 async function handleRequest(request) {
